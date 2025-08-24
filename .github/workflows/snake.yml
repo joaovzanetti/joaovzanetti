@@ -2,25 +2,29 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda 1x por dia
-  workflow_dispatch:     # permite rodar manualmente
+    - cron: "0 0 * * *"   # roda 1x por dia (00:00 UTC)
+  workflow_dispatch:        # permite rodar manualmente
+
+permissions:
+  contents: write           # precisa para publicar no branch output
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Geração da cobrinha
+      - name: Generate snake SVGs (light & dark)
         uses: Platane/snk@v3
         with:
-          github_user_name: joaovzanetti   # seu usuário aqui
-          outputs: dist/snake.svg
+          github_user_name: joaovzanetti
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy no branch output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
