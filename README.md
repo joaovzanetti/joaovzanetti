@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="assets/hello.gif" width="30">, sou João Victor Zanetti</h1>
+<h1 align="center">Olá <img src="assets/hello.gif" width="60">, sou João Victor Zanetti</h1>
 
 <p align="center">
   Estudante de <b>Engenharia da Computação</b> | <b>Full-Stack Developer em formação</b><br>
