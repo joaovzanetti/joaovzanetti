@@ -1,35 +1,35 @@
-<h1 align="center">Olá <img src="assets/hello.gif" width="60">, sou João Victor Zanetti</h1>
+<h1 align="center">Hello <img src="assets/hello.gif" width="60">, I'm João Victor Zanetti</h1>
 
 <p align="center">
-  Estudante de <b>Engenharia da Computação</b> | <b>Full-Stack Developer em formação</b><br>
-  Projetos em <b>Web Development</b>, <b>Sistemas Embarcados & IoT</b> e <b>Agentes Inteligentes</b>
+  <b>Computer Engineering Student</b> | <b>Full-Stack Developer in training</b><br>
+  Projects in <b>Web Development</b>, <b>Embedded Systems & IoT</b> and <b>Intelligent Agents</b>
 </p>
 
 ---
 
-Atualmente, desenvolvo projetos práticos tanto em **software** quanto em **hardware**, sempre com foco em criar soluções que realmente façam a diferença.
+Currently, I develop hands-on projects in both **software** and **hardware**, always focusing on creating solutions that truly make a difference.
 
-*Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor e engenheiro.*
+*Feel free to explore my repositories and follow my journey as a developer and engineer.*
 
 ---
 
-## Linguagens e Tecnologias
+## Languages & Technologies
 
-- **Linguagens:** Python, C, C++, HTML, CSS  
-- **Sistemas Embarcados & IoT:** Arduino  
-- **Controle de Versão:** Git, GitHub  
-- **Frameworks de IA/LLM:** LangChain
+- **Languages:** Python, C, C++, HTML, CSS  
+- **Embedded Systems & IoT:** Arduino  
+- **Version Control:** Git, GitHub  
+- **AI/LLM Frameworks:** LangChain
 
 ---
 
 <p align="center">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=joaovzanetti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=joaovzanetti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=en" 
   />
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovzanetti&theme=github_dark&layout=donut&custom_title=Tecnologias&langs_count=6" 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovzanetti&theme=github_dark&layout=donut&custom_title=Technologies&langs_count=6&locale=en" 
   />
 </p>
 
