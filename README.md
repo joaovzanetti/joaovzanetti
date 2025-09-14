@@ -1,8 +1,8 @@
 <h1 align="center">Hello <img src="assets/hello.gif" width="60">, I'm João Victor Zanetti</h1>
 
 <p align="center">
-  <b>Computer Engineering Student</b> | <b>Full-Stack Developer in training</b><br>
-  Projects in <b>Web Development</b>, <b>Embedded Systems & IoT</b> and <b>Intelligent Agents</b>
+  <b>Computer Engineering Student</b> | <b>Full-Stack Developer</b><br>
+  Projects in <b>Web Development</b>, <b>Embedded Systems & IoT</b> and <b>AI Agents</b>
 </p>
 
 ---
@@ -15,10 +15,12 @@ Currently, I develop hands-on projects in both **software** and **hardware**, al
 
 ## Languages & Technologies
 
-- **Languages:** Python, C, C++, HTML, CSS  
+- **Languages:** Python, C++, HTML, CSS  
 - **Embedded Systems & IoT:** Arduino  
 - **Version Control:** Git, GitHub  
 - **AI/LLM Frameworks:** LangChain
+
+- **Learning / Exploring:** JavaScript
 
 ---
 
